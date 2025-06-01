@@ -1,0 +1,19 @@
+/project-root
+├── /src
+│   ├── /components
+│   │   ├── AdminDashboard.js
+│   │   ├── OTScheduleForm.js
+│   │   ├── OTAnalytics.js
+│   │   ├── UserScheduleViewer.js
+│   ├── /services
+│   │   ├── firebase.js (Firebase config and functions)
+│   │   ├── logger.js (Logging setup)
+│   ├── /styles
+│   │   ├── main.css
+│   ├── /utils
+│   │   ├── constants.js
+│   ├── index.html
+├── /tests
+│   ├── schedule.test.js
+├── README.md
+├── package.json
